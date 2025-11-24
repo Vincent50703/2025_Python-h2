@@ -32,7 +32,8 @@ elif score >= 70:
   print("Grade: C")
 elif score >= 60:
   print("Grade: D")
-
+else:
+    grade = "F"
 
 ...Program finished with exit code 0
 Press ENTER to exit console.
@@ -58,5 +59,3 @@ Press ENTER to exit console.
 
 
 
-else:
-    grade = "F"
