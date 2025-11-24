@@ -38,6 +38,10 @@ else:
 ...Program finished with exit code 0
 Press ENTER to exit console.
 
+A = int(input("piease input a number"))
+B = int(input("piease input a number"))
+print( A*A + B*B)
+
 
 
 
