@@ -35,3 +35,14 @@ while attempts > 0:
             print("密碼錯誤，請重試。")
         else:
             print("密碼錯誤次數過多，帳號已鎖定。")
+
+# 計算 1 到 100 的總和
+total = 0
+number = 1
+
+while number <= 100:
+    total += number
+    number += 1
+
+print(f"1 到 100 的總和是：{total}")
+
