@@ -4,3 +4,14 @@ def greet():
     
 #   呼叫函數
 greet()
+
+def add_numbers(a, b):
+    """計算兩個數字的和"""
+    result = a + b
+    return result
+    
+# 使用函數
+sum_result ＝ add_numbers（５, 3)
+print(f"5 + 33 )={sum_result}
+
+
