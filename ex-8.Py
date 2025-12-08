@@ -14,4 +14,7 @@ def add_numbers(a, b):
 sum_result ＝ add_numbers（５, 3)
 print(f"5 + 33 )={sum_result}
 
+import array
+a = array.array('i', [1, 2, 3, 4])
+print(a)
 
