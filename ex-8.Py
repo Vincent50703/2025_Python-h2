@@ -46,4 +46,9 @@ for item in a:
 print("--------------")   
 for item in a_list:
     print(item)
+a.append(5)
+print(a)
+a.insert(2, 10)  # 在索引 2 插入 10
+print(a)
+
 
