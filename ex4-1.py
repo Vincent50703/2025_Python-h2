@@ -46,24 +46,3 @@ r = float(input("please input aradius = "))
 print(" length = ", 2*3.14 r)
 print(" area =",3.14 *r *r)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
